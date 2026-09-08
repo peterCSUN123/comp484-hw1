@@ -20,19 +20,16 @@ body {
 	line-height: 1.8;
 }
 h1 {
-	font: 2.5em Verdana, Geneva, sans-serif;
+	font: 1.6em Verdana, Geneva, sans-serif;
 	margin-bottom: .4em;
 	color: rgb(83, 104, 138);
-	font-weight: bold;
 }
 h2 {
-	font: 2em Georgia, "Times New Roman", Times, serif;
+	font: 3.2em Georgia, "Times New Roman", Times, serif;
 	margin-bottom: .2em;
-	font-weight: bold;
 }
 h3 {
-	font-size: 1.75em;
-	font-weight: bold;
+	font-size: 1.2em;
 }
 p {
 	margin-bottom: 1em;
